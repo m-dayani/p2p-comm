@@ -8,7 +8,7 @@
 
 ### Pros:
 
-- No third party server is needed (Although the test program is server-client-based, it can be modified to other models)
+- No third-party server is needed (Although the test program is server-client-based, it can be modified to other models)
 - Messaging even between two peers in private networks
 
 ### Cons:
@@ -27,10 +27,10 @@ For secure messaging, consider implementing an encryption/decryption scheme like
 - CMake
 - Boost Asio (boost system and pthread libraries)
 
-## Make
+<!-- ## Make
 
 ## Testing
 
 ### Localhost
 
-### Local Network
+### Local Network -->
